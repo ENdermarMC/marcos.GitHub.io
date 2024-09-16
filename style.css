@@ -1,0 +1,46 @@
+.morado {
+ color: blueviolet; 
+ font-family: "Playpen Sans", cursive;  
+}
+
+.fuente {
+    font-family: "Playpen Sans", cursive;
+}
+body {
+    font-family: "Playpen Sans", cursive;
+} 
+h1 {
+    font-family: "Playpen Sans", cursive;
+}
+a {
+    font-family: "Playpen Sans", cursive;
+}
+button {
+    border-radius: 100px;
+    color: black;
+    background-color: gray;
+}
+.navegacion {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: gray;
+}
+.logo {
+padding: 17px;
+padding-right: 100px;
+}
+.listas {
+    display: inline-block;
+    padding: 6px;
+}
+.listas:hover {
+    color: aqua;
+}
+.navegacion button {
+    margin-right: 20px;
+}
+.navegacion button:hover {
+    color: aqua;
+    border-color: aqua;
+}
